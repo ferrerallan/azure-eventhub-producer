@@ -2,7 +2,7 @@
 using Azure.Messaging.EventHubs;
 using Azure.Messaging.EventHubs.Producer;
 
-string connectionString = "Endpoint=sb://eh-allan.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=zOmvRiUoxoDgKXh5L2IAET/f2zaSjSqZ+kS2t4U8W3E=";
+string connectionString = "yourconnection";
 
 // name of the event hub
 string eventHubName = "allan-test";
